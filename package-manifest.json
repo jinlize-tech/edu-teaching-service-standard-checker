@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-SK-075",
+  "repository_name": "edu-teaching-service-standard-checker",
+  "product_type": "Skill",
+  "version": "1.0.0",
+  "package_path": "dist/edu-teaching-service-standard-checker-v1.0.0.zip",
+  "sha256": "FA58BC2E073F64020F53B43E0CF6379BCE84F44BB04C5DC08FC96C964B25476F",
+  "bytes": 4884,
+  "entries": [
+    "edu-teaching-service-standard-checker/SKILL.md",
+    "edu-teaching-service-standard-checker/references/DOMAIN_GUIDE.md",
+    "edu-teaching-service-standard-checker/references/EXAMPLES.md",
+    "edu-teaching-service-standard-checker/templates/OUTPUT_TEMPLATE.md"
+  ],
+  "built_at": "2026-11-06T22:46:17.5421670+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}

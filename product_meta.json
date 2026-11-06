@@ -1,0 +1,24 @@
+{
+  "number": 93,
+  "product_id": "JLZ-EDU-SK-075",
+  "chinese_name": "教学服务标准核查",
+  "english_name": "Teaching Service Standard Checker",
+  "repository_name": "edu-teaching-service-standard-checker",
+  "product_type": "Skill",
+  "category": "08 校区标准化与多校区管理中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-teaching-service-standard-checker-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "课程标准、教学流程、课堂/作业/反馈证据、教师行为和检查标准",
+  "main_output": "标准核查表、证据缺口、偏差分级、整改项和复核标准",
+  "package_entries": [
+    "edu-teaching-service-standard-checker/SKILL.md",
+    "edu-teaching-service-standard-checker/references/DOMAIN_GUIDE.md",
+    "edu-teaching-service-standard-checker/references/EXAMPLES.md",
+    "edu-teaching-service-standard-checker/templates/OUTPUT_TEMPLATE.md"
+  ]
+}
