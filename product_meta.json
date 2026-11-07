@@ -6,19 +6,37 @@
   "repository_name": "edu-teaching-service-standard-checker",
   "product_type": "Skill",
   "category": "08 校区标准化与多校区管理中心",
-  "version": "1.0.0",
-  "status": "PACKAGE_READY",
-  "workbuddy_validation": "NOT_VERIFIED",
+  "version": "1.0.1",
+  "previous_version": "1.0.0",
+  "g5_status": "G5_STRENGTHENED",
+  "status": "G9_PRE_RELEASE_ACCEPTED",
+  "package_state": "GITHUB_PACKAGE_PRE_RELEASE_READY",
+  "runtime_status": "NOT_RUNTIME_VERIFIED",
+  "workbuddy_validation": "WORKBUDDY_VALIDATION_NOT_IN_SCOPE",
   "license": "Apache-2.0",
   "baseline_tag": "education-product-baseline-v1.0.0",
-  "package_path": "dist/edu-teaching-service-standard-checker-v1.0.0.zip",
+  "baseline_commit": "65ac7dc16e3dc699a7aff0130e017429c6f1cbfd",
+  "package_path": "dist/edu-teaching-service-standard-checker-v1.0.1.zip",
+  "previous_package_path": "dist/edu-teaching-service-standard-checker-v1.0.0.zip",
+  "previous_package_sha256": "FA58BC2E073F64020F53B43E0CF6379BCE84F44BB04C5DC08FC96C964B25476F",
   "calculator": false,
   "core_input": "课程标准、教学流程、课堂/作业/反馈证据、教师行为和检查标准",
   "main_output": "标准核查表、证据缺口、偏差分级、整改项和复核标准",
+  "main_output_fields": [
+    "标准核查表",
+    "证据缺口",
+    "偏差分级",
+    "整改项和复核标准"
+  ],
   "package_entries": [
     "edu-teaching-service-standard-checker/SKILL.md",
     "edu-teaching-service-standard-checker/references/DOMAIN_GUIDE.md",
     "edu-teaching-service-standard-checker/references/EXAMPLES.md",
-    "edu-teaching-service-standard-checker/templates/OUTPUT_TEMPLATE.md"
+    "edu-teaching-service-standard-checker/templates/OUTPUT_TEMPLATE.md",
+    "edu-teaching-service-standard-checker/README.md",
+    "edu-teaching-service-standard-checker/USAGE.md",
+    "edu-teaching-service-standard-checker/LICENSE",
+    "edu-teaching-service-standard-checker/THIRD_PARTY_NOTICES.md",
+    "edu-teaching-service-standard-checker/scripts/validate_input.js"
   ]
 }
